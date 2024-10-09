@@ -11,7 +11,7 @@ git commit -m "Initial commit"
 Push to GitHub
 Create a new repository on GitHub
 Push the local repository to GitHub:
-git remote add origin https://github.com/yourusername/html-cicd-demo.git
+git remote add origin https://github.com/Suman-creat/CICDPipeline1.git
 git push -u origin master
 Task 2: Set Up an AWS EC2/Local Linux Instance with Nginx
 Launch an EC2 Instance (or Local Linux Machine)
